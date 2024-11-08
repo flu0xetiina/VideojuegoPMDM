@@ -744,9 +744,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_BindingMode: 1
   m_FollowOffset: {x: 0, y: 0, z: -10}
-  m_XDamping: 1
-  m_YDamping: 1
-  m_ZDamping: 1
+  m_XDamping: 0
+  m_YDamping: 0
+  m_ZDamping: 0
   m_AngularDampingMode: 0
   m_PitchDamping: 0
   m_YawDamping: 0
@@ -73245,10 +73245,10 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 519420032}
+  - {fileID: 1988558926}
   - {fileID: 1977517114}
   - {fileID: 1238361249}
   - {fileID: 1020053960}
-  - {fileID: 1988558926}
   - {fileID: 1080584385}
   - {fileID: 8829483182524600987}
   - {fileID: 986544822}
